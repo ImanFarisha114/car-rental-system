@@ -14,8 +14,8 @@ Car rental system.
 Complete (CSC584)
 
 ## Author
-Nur Iman Farisha
-Nurin Fadlina
-Nur Alya Batrisyia
-Nur Zafirah
-Puteri Saidatina Fatimah Dewi Sukma
+- Nur Iman Farisha
+- Nurin Fadlina
+- Nur Alya Batrisyia
+- Nur Zafirah
+- Puteri Saidatina Fatimah Dewi Sukma
